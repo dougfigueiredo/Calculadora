@@ -45,7 +45,6 @@ export class CalculadoraComponent implements OnInit {
     } else {
       this.numero2 = this.concatenarNumero(this.numero2, numero);
     }
-
   }
 
   /**
